@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-- 🌱 I’m currently learning **Java and Spring Framework**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 📝 I regularly write articles on [https://medium.com/@mustafamengutay](https://medium.com/@mustafamengutay)
 
