@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">I'm a Computer Engineering Student</h3>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **mustafamengutayy@gmail.com**
 
